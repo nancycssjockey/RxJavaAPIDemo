@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RxJavaAPIDemo</string>
+    <string name="signin">SignIn</string>
+    <string name="signup">SignUp</string>
+    <string name="email_empty">Please enter your email.</string>
+    <string name="password_empty">Please enter your password.</string>
+</resources>
